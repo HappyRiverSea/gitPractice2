@@ -6,4 +6,6 @@ fun main(args: Array<String>) {
     println("Program arguments: ${args.joinToString()}")
 
     println("Kotlin2")
+
+    println("Kotlin3")
 }
