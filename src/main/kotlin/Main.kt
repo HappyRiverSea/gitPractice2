@@ -8,4 +8,6 @@ fun main(args: Array<String>) {
     println("Kotlin2")
 
     println("Kotlin3")
+
+    println("Kotlin4")
 }
